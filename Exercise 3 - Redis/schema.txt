@@ -1,0 +1,34 @@
+User:
+- userID (unique identifier)
+- name
+- age
+- gender
+- email
+
+Meeting:
+- meetingID (unique identifier)
+- title
+- description
+- isPublic (boolean)
+- audience (list of userIDs)
+
+MeetingInstance:
+- meetingInstanceID (unique identifier)
+- meetingID (foreign key referencing Meeting.meetingID)
+- fromdatetime (start datetime)
+- todatetime (end datetime)
+- isActive (boolean)
+
+EventLog:
+- eventID (unique identifier)
+- userID (foreign key referencing User.userID)
+- meetingInstanceID (foreign key referencing MeetingInstance.meetingInstanceID)
+- event_type (integer)
+- timestamp
+
+ChatMessage:
+- messageID (unique identifier)
+- userID (foreign key referencing User.userID)
+- meetingInstanceID (foreign key referencing MeetingInstance.meetingInstanceID)
+- message
+- timestamp
