@@ -1,0 +1,16 @@
+[
+  { "ATMCode": 20, "TotalAmount": 1650 },
+  { "ATMCode": 15, "TotalAmount": 2338 },
+  { "ATMCode": 18, "TotalAmount": 1359 },
+  { "ATMCode": 16, "TotalAmount": 358 },
+  { "ATMCode": 19, "TotalAmount": 1760 },
+  { "ATMCode": 10, "TotalAmount": 2384 },
+  { "ATMCode": 17, "TotalAmount": 537 },
+  { "ATMCode": 13, "TotalAmount": 688 },
+  { "ATMCode": 12, "TotalAmount": 784 },
+  { "ATMCode": 21, "TotalAmount": 1025 },
+  { "ATMCode": 4, "TotalAmount": 16 },
+  { "ATMCode": 8, "TotalAmount": 42 },
+  { "ATMCode": 7, "TotalAmount": 18 },
+  { "ATMCode": 11, "TotalAmount": 44 }
+]

@@ -1,0 +1,21 @@
+[
+  { "City": "Schaumburg", "Gender": "Female", "TotalAmount": 4307 },
+  { "City": "Baltimore", "Gender": "Male", "TotalAmount": 627 },
+  { "City": "Omaha", "Gender": "Female", "TotalAmount": 931 },
+  { "City": "Tacoma", "Gender": "Male", "TotalAmount": 21 },
+  { "City": "Memphis", "Gender": "Male", "TotalAmount": 2913 },
+  { "City": "Tacoma", "Gender": "Female", "TotalAmount": 1207 },
+  { "City": "Greeley", "Gender": "Male", "TotalAmount": 45 },
+  { "City": "Memphis", "Gender": "Female", "TotalAmount": 1132 },
+  { "City": "Vancouver", "Gender": "Female", "TotalAmount": 17 },
+  { "City": "Springfield", "Gender": "Male", "TotalAmount": 3728 },
+  { "City": "Canton", "Gender": "Female", "TotalAmount": 45 },
+  { "City": "Canton", "Gender": "Male", "TotalAmount": 1625 },
+  { "City": "Schaumburg", "Gender": "Male", "TotalAmount": 1383 },
+  { "City": "Vancouver", "Gender": "Male", "TotalAmount": 1027 },
+  { "City": "Springfield", "Gender": "Female", "TotalAmount": 1959 },
+  { "City": "Greeley", "Gender": "Female", "TotalAmount": 44 },
+  { "City": "Omaha", "Gender": "Male", "TotalAmount": 3231 },
+  { "City": "Dayton", "Gender": "Male", "TotalAmount": 14 },
+  { "City": "Baltimore", "Gender": "Female", "TotalAmount": 576 }
+]
